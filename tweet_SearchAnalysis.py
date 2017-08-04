@@ -1,3 +1,4 @@
+#!/usr/bin/env python3 -B
 
 # tweet_SearchAnalysis.py
 # Import necessary libraries

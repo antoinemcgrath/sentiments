@@ -1,5 +1,6 @@
+#!/usr/bin/env python3 -B
 # tweet_Sentiment.py
-# python3 tweet_Sentiment.py 'filecoin' 'Blue' 'Trump' 'Obama'
+# python3 -B tweet_Sentiment.py 'filecoin' 'Blue' 'Trump' 'Obama'
 
 # Import necessary libraries
 import codecs
