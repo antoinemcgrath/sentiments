@@ -41,6 +41,8 @@ _ReSharper*/
 
 #Project files
 [Bb]uild/
+Tweets_on*
+Keyword_Sentiment_Results.txt
 
 #Subversion files
 .svn
