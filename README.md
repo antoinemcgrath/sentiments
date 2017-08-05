@@ -13,8 +13,8 @@ Each tweet will be evaluated independently and count as a +1 positive tweet or 0
 Every word in a tweet is searched for in the file "SentiWordNet_3.0.0_20130122.txt" if found its positive and negative score will be added to the tweets overall score. 
 
 For each tweet the sum of all positive word scores and negative word scores determines whether the tweet is +1 or 0. 
-###### Positive ＞ Negative = +1
-###### Positive ≤ Negative = 0
+    Positive ＞ Negative = +1
+    Positive ≤ Negative = 0
 
 
 
