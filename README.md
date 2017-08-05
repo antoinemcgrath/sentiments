@@ -40,6 +40,11 @@ Used:4  Remaining:176  search/tweets
 
 
 
+- [x] Evaluate sentiment of tweets
+- [x] Print Twitter API counter
+- [ ] Add SMS language conversion of tweets
+- [ ] Correct lolzzz speeeeech (remove extra characterssss & ?)
+- [ ] Consider preventing retweets from evaluation
 
 The evaluation of each tweet is based upon the sentiment assement of each word which was provided by SentiWordNet:
 
@@ -48,9 +53,4 @@ The evaluation of each tweet is based upon the sentiment assement of each word w
 > The file used here is a condensed version of the SentiWordNet version and should be updated (or prempted by) SMS language conversion https://en.wikipedia.org/wiki/SMS_language
 
 
- [x] Evaluate sentiment of tweets
- [x] Print Twitter API counter
-- [ ] Add SMS language conversion of tweets
-- [ ] Correct lolzzz speeeeech (remove extra characterssss & ?)
-- [ ] Consider preventing retweets from evaluation
 
