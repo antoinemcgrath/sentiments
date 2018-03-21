@@ -34,7 +34,7 @@ Trump  Positive sentiments\total tweets: 57\100
 Obama  Positive sentiments\total tweets: 71\100
 ```
 
-In addition the Twitter API request use and remainders will be printed before and after the script places its requests. If any of the Twitter API requests reache 0 twitter will temporarily block you.
+In addition the Twitter API request use and remainders will be printed before and after the script places its requests. This is helpful for observing Twitter API rate request limits.
 ```
 Used:2  Remaining:178  application/rate_limit_status
 Used:4  Remaining:176  search/tweets
@@ -57,3 +57,11 @@ The evaluation of each tweet is based upon the sentiment assement of each word w
 
 
 
+
+Comments, critiques? Contact me [![alt text][6.3]][3]  [![alt text][1.2]][1]
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+[1.2]: https://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1]: https://www.twitter.com/AGreenDCBike
+[6.3]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3]: https://github.com/antoinemcgrath
