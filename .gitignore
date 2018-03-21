@@ -4,6 +4,8 @@
 
 #System backup files
 *~
+\#*\#
+*.idea
 
 #Visual Studio files
 *.[Oo]bj
@@ -41,8 +43,6 @@ _ReSharper*/
 
 #Project files
 [Bb]uild/
-Tweets_on*
-Keyword_Sentiment_Results.txt
 
 #Subversion files
 .svn
@@ -55,4 +55,7 @@ gitignore/
 mw_site_backups/
 
 #Specific files to ignore
+keywords.txt
+retweet_list.txt
+tweet_id_cachelist.txt
 deletelist.txt
